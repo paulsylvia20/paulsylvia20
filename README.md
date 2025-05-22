@@ -1,29 +1,14 @@
-## Hi there 👋
+## 👋 More about myself
+![head](https://github.com/user-attachments/assets/803e968b-7679-4cb9-b8f6-e25499fc4657)
 
-## Table of Contents
-- [How to Create Your Profile?](#how-to-create-your-profile)
-- [How to Customize Markdown files?](#how-to-customize-markdown-files)
-- [How to Create New Repository?](#how-to-create-new-repository)
+Hello, I'm Paul, a statistician located in Boston with a background in data-based assessment and measurement.
 
-Here are some ideas to get you started:
+###  📚 Projects
+My portfolio where I showcase some of my accomplishments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-
-
-
-
-
-
-
-
-
-# how-to-create-your-profile
-
-
-
-
-
-
+### 🛠️ Tools
+- Languages: R, Python
+- Data Visualization: ggplot2, Matplotlib
+- Softwares: SPSS, NOHARM, HLM, 
+  
+#### 📨 To connect, message me on [Linkedin](www.linkedin.com/in/psylvia)
