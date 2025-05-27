@@ -3,7 +3,7 @@
 Hi, I'm Paul Sylvia :handshake:
 
 I'm an analyst living in Brookline Mass with a M.S. in Applied Statistics and Psychometrics. My experience in program evaluation encompasses several techniques:
- - General Linear models
+ - General Linear Models
  - Machine Learning
  - Item Response Theory
  - Classical Test Theory
