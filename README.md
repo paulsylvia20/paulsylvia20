@@ -1,14 +1,19 @@
-## 👋 More about myself
-![head](https://github.com/user-attachments/assets/803e968b-7679-4cb9-b8f6-e25499fc4657)
+![galaxy-header](https://github.com/user-attachments/assets/45672ea3-0343-46f2-ad06-f404871501d8)
 
-Hello, I'm Paul, a statistician located in Boston with a background in data-based assessment and measurement.
+Hi, I'm Paul Sylvia :handshake:
 
-###  📚 Projects
-My portfolio where I showcase some of my accomplishments.
+I'm an analyst living in Brookline Mass with a M.S. in Applied Statistics and Psychometrics. My experience in program evaluation encompasses several approaches:
+ - General Linear models
+ - Machine Learning
+ - Item Response Theory
+ - Classical Test Theory
+
+###  📚 Portfolio
+If you would like to see some R studies where I clean, prepare and generate data for detailed analysis, or if you would like to see Python studies where I implement some of the above models from scratch, you can find that [here](https://github.com/paulsylvia20/paulsylvia20/blob/main/Portfolio.md).
 
 ### 🛠️ Tools
 - Languages: R, Python
 - Data Visualization: ggplot2, Matplotlib
-- Softwares: SPSS, NOHARM, HLM, 
+- Softwares: SPSS, NOHARM, HLM, Excel
   
-#### 📨 To connect, message me on [Linkedin](www.linkedin.com/in/psylvia)
+#### 📨 To connect, please reach me at [Linkedin](www.linkedin.com/in/psylvia)
