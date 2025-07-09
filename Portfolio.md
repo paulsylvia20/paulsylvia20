@@ -2,10 +2,6 @@
 
 Below all of my major data analyses and from-scratch implementations may be found.
 
-## :books: Table of Contents
- - [R](#R)
- - [Python](#Python)
-
 ## R
 | Project Link | Completion Date | Tools| Project Description |
 | --- | --- | --- | --- |
@@ -14,4 +10,4 @@ Below all of my major data analyses and from-scratch implementations may be foun
 ## Python
 | Project Link | Completion Date | Tools| Project Description |
 | --- | --- | --- | --- |
-| Djikstra's Algorithm | September 2024 | Python, Excel |  |
+| [Dijkstra's Algorithm](https://github.com/paulsylvia20/Dijkstras_Algorithm) | September 2024 | Python, Excel | A curiosity driven project implementing a network path finding algorithm to a videogame design feature |
