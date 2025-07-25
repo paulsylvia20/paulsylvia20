@@ -5,7 +5,7 @@ Below all of my major data analyses and from-scratch implementations may be foun
 ## R
 | Project Link | Completion Date | Tools| Project Description |
 | --- | --- | --- | --- |
-| [LMM for Assessing Hospital Impact on SUDs](https://github.com/paulsylvia20/HRR_SUDS) | May 2025 | R, HLM | The research study combines several national datasets to describe the relationship between socioeconomic factors and drug-overdoses using cross-sectional linear mixed effects modeling, while assessing the potential moderating role of hospital networks |
+| [LMM for Assessing Hospital Relationship with SUDs mortality](https://github.com/paulsylvia20/HRR_SUDS) | May 2025 | HLM, dplyr, mice | The research study combines and cleans several large national datasets to describe the relationship between socioeconomic factors and drug-overdoses using cross-sectional linear mixed effects modeling, while assessing the potential moderating role of hospital networks |
 
 ## Python
 | Project Link | Completion Date | Tools| Project Description |
