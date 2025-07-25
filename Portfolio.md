@@ -11,3 +11,4 @@ Below all of my major data analyses and from-scratch implementations may be foun
 | Project Link | Completion Date | Tools| Project Description |
 | --- | --- | --- | --- |
 | [Dijkstra's Algorithm](https://github.com/paulsylvia20/Dijkstras_Algorithm) | September 2024 | Python, Excel | A curiosity driven project implementing a network path finding algorithm to a videogame design feature |
+| [LLM Preference Classification](https://github.com/paulsylvia20/LLM_Preference_Classification) | July 2025 | Pytorch, NLP, Huggingface Automodels | Submission to a Kaggle competition, finetuning the standard RoBERTa LLM for a complex classification on long sequences |
