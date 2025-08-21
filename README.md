@@ -9,7 +9,7 @@ I'm an analyst living in Brookline Mass with a M.S. in Applied Statistics and Ps
  - Classical Test Theory
 
 ###  📚 Portfolio
-If you would like to see some R studies where I clean, prepare and generate data for detailed analysis, or if you would like to see Python studies where I implement CS algorithms and machine learning with Pytorch, you can find them [here](https://github.com/paulsylvia20/paulsylvia20/blob/main/Portfolio.md).
+If you would like to see some R studies where I clean, prepare and generate data for detailed analysis, or if you would like to see Python studies where I implement CS algorithms or machine learning with Pytorch, please find these them [here](https://github.com/paulsylvia20/paulsylvia20/blob/main/Portfolio.md).
 
 ### 🛠️ Tools
 - Languages: R, Python
